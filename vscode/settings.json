@@ -1,0 +1,59 @@
+{
+  "editor.fontFamily": "'IBM Plex Mono', 'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+  "window.zoomLevel": 0.5,
+  "editor.lineHeight": 2,
+  "diffEditor.renderSideBySide": true,
+  "terminal.integrated.fontLigatures.enabled": true,
+  "claudeCode.preferredLocation": "sidebar",
+  "laravel-pint.enable": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.lineNumbers": "off",
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "window.commandCenter": false,
+  "workbench.browser.showInTitleBar": true,
+  "github.copilot.nextEditSuggestions.eagerness": "auto",
+  "claudeCode.allowDangerouslySkipPermissions": true,
+  "claudeCode.enableNewConversationShortcut": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.iconTheme": "symbols",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.fontSize": 13,
+  "[php]": {
+    "editor.defaultFormatter": "open-southeners.laravel-pint"
+  },
+  "claudeCode.initialPermissionMode": "bypassPermissions",
+  "terminal.integrated.fontSize": 11,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.fontAliasing": "antialiased",
+  "chat.editor.fontFamily": "\"IBM Plex Mono\"",
+  "chat.fontFamily": "\"IBM Plex Mono\"",
+  "markdown.preview.fontFamily": "\"IBM Plex Mono\"",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.renderWhitespace": "none",
+  "terminal.integrated.fontFamily": "\"Geist Mono\", \"IBM Plex Mono\", \"JetbrainsMono Nerd Font\"",
+  "terminal.integrated.lineHeight": 1.25,
+  "editor.fontLigatures": true,
+  "terminal.integrated.mouseWheelScrollSensitivity": 3,
+  "terminal.integrated.gpuAcceleration": "off",
+  "markdown.styles": [
+    "https://cdn.jsdelivr.net/gh/fadlihdytullah/dotfiles@main/vscode/markdown.css"
+  ],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "testing.resultsView.layout": "treeLeft",
+  "workbench.statusBar.visible": false,
+  "window.customTitleBarVisibility": "windowed",
+  "chat.viewSessions.orientation": "stacked",
+  "workbench.sideBar.location": "right",
+  "workbench.panel.showLabels": false
+}
